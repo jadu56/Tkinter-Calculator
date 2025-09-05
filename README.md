@@ -17,9 +17,6 @@ This calculator supports basic arithmetic operations, percentage calculation, an
 
 ---
 
-## Screenshot
-*(You can add a screenshot of the calculator UI here)*
-
 ---
 
 ##  How to Run
